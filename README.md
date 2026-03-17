@@ -2,6 +2,7 @@
 Overview
 The Fatigue Detection & Analysis System is a machine learning-based application designed to identify the possible causes of daily fatigue based on a user’s lifestyle. Many people experience tiredness even after sufficient sleep, and this system aims to analyze patterns in their daily habits to provide meaningful insights.
 The project combines Machine Learning, Backend APIs, and Frontend UI to create an end-to-end intelligent system.
+
 🚀 Features
 📊 Collects user lifestyle data (sleep, hydration, activity, etc.)
 🤖 Predicts fatigue causes using Machine Learning models
@@ -15,6 +16,7 @@ HTML, CSS, JavaScript (or React - if used)
 ⚙️ Backend
 Java / Python (API handling)
 REST APIs for communication
+
 🤖 Machine Learning
 Python
 Libraries: Pandas, Scikit-learn
@@ -23,6 +25,7 @@ Logistic Regression
 Decision Tree
 Random Forest
 XGBoost
+
 ☁️ Cloud / Deployment
 (Add if used: AWS / Firebase / Render / etc.)
 📂 Project Structure
